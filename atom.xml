@@ -4,7 +4,7 @@
  <title>没吃药的七叔</title>
  <link href="http://7heaven.github.io/atom.xml" rel="self"/>
  <link href="http://7heaven.github.io/"/>
- <updated>2015-12-03T12:57:58+08:00</updated>
+ <updated>2015-12-03T13:38:53+08:00</updated>
  <id>http://7heaven.github.io</id>
  <author>
    <name>7heaven</name>
@@ -17,7 +17,16 @@
    <link href="http://7heaven.github.io/blog/hola"/>
    <updated>2015-12-02T00:00:00+08:00</updated>
    <id>http://7heaven.github.io/blog/hola</id>
-   <content type="html">&lt;h1 id=&quot;test-test-test&quot;&gt;test test test&lt;/h1&gt;
+   <content type="html">&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: “Hola”
+quote: “test, test, test”
+image: false
+video: false
+##comments: true
+___&lt;/p&gt;
+
+&lt;p&gt;test&lt;/p&gt;
 </content>
  </entry>
  
